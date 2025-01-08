@@ -37,7 +37,7 @@ const LoginPage = () => {
       email: "",
       password: "",
     })
-    navigate('/');
+    navigate('/react-registration');
     console.log(formData)
     
   }
