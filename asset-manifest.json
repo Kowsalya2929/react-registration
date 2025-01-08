@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-registration/static/css/main.4f2aba19.css",
+    "main.js": "/react-registration/static/js/main.9dab5393.js",
+    "index.html": "/react-registration/index.html",
+    "main.4f2aba19.css.map": "/react-registration/static/css/main.4f2aba19.css.map",
+    "main.9dab5393.js.map": "/react-registration/static/js/main.9dab5393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2aba19.css",
+    "static/js/main.9dab5393.js"
+  ]
+}
