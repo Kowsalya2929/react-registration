@@ -48,7 +48,7 @@ const ForgetPassword = () => {
       password: "",
       CPassword: "",
     })
-    navigate('/');
+    navigate('/react-registration');
     console.log(formData)
   }
 
